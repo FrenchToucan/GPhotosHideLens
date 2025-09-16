@@ -1,4 +1,4 @@
-Archiving Septembert 16 2025 - Google removed the Lens button in favor of a Create button which is a lot more useful.
+Archiving September 16 2025 - Google removed the Lens button in favor of a Create button which is a lot more useful.
 
 # GPhotosHideLens
 
