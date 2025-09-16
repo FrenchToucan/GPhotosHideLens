@@ -1,3 +1,5 @@
+Archiving Septembert 16 2025 - Google removed the Lens button in favor of a Create button which is a lot more useful.
+
 # GPhotosHideLens
 
 Hide the Lens button in Google Photos and evenly space the Share, Edit, and Trash buttons using LSPosed/Xposed.  
